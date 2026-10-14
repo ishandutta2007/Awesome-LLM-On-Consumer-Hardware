@@ -1,6 +1,6 @@
 # Awesome-LLM-On-Consumer-Hardware
 
-# Top LLM on Consumer Hardware Ecosystem
+## Top LLM on Consumer Hardware Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Local Inference, Quantized Model Serving & On-Device AI*  
